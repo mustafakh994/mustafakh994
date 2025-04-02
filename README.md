@@ -8,7 +8,7 @@ Highly accomplished and results-driven Senior Full Stack Developer with over 8 y
 
 * 🌍  I'm based in Turkiye
 * 🧠  I'm learning AI and Data Analysis
-* 🤝  I'm open to collaborating on Laravel , Nextjs ,BI projects
+* 🤝  I'm open to collaborating on  Full Stack , BI projects
 
 ### Skills
 
